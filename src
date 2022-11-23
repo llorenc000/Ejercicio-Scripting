@@ -1,0 +1,6 @@
+sudo su
+nano 01-hola-mundo.sh
+#!/bin/bash
+echo"Hola Mundo!"
+chmod 777 01-hola-mundo.sh
+./ 01-hola-mundo.sh
